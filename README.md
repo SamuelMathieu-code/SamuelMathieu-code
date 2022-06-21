@@ -2,8 +2,6 @@
 - 👀 I’m interested in... Machine learning, Genetics & genomics, Mathematics.
 - 🌱 I’m currently learning... Deep learning: scaling and continual learning. (research)
 - 📫 How to reach me: samuel.mathieu.3@ulaval.ca
-- papers : 
-https://pubmed.ncbi.nlm.nih.gov/35246263/
 
 <!---
 SamuelMathieu-code/SamuelMathieu-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
