@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Mathieu
 - 👀 I’m interested in... Machine learning, Genetics & genomics, Mathematics.
-- 🌱 I’m currently learning... Deep learning: scaling and continual learning. (research)
+- 🌱 I’m currently learning deep learning: scaling and continual learning. (research)
 - 📫 How to reach me: samuel.mathieu.3@ulaval.ca
 - [Portfolio](https://magnetic-bassoon-754.notion.site/Samuel-Mathieu-2d22963aa4cd47959070cf8f969dd8c1)
 <!---
